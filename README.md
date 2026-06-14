@@ -1,7 +1,7 @@
 <h3 align="center">     .  tcc fans INT with me pls</h3>
 
 <h3 align="left">:</h3>
-<p align="left">
+<p align="left">https://pin.it/6Jb4a9Pi1
 </p>
 
 <h3 align="left">Idiomas y herramientas:</h3>
