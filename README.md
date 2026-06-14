@@ -1,6 +1,6 @@
 <p align="center">
   <!-- Cambia la URL por tu separador superior -->
-  <img src="https://tu-servidor-de-imagenes.com" width="100%">
+  <img src="https://pin.it/6Jb4a9Pi1/" width="100%">
 </p>
 
 <p align="center">
