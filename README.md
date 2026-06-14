@@ -3,13 +3,11 @@
 </p>
 
 <p align="center">
-  <!-- Tu contador de visitas personalizado -->
   <img src="https://seeyoufarm.com" />
 </p>
 
 <p align="center">
-  <!-- Tu imagen central o ilustración de proyecto -->
-  <img src="https://tu-servidor-de-imagenes.com" width="70%">
+  <img src="https://pin.it/179k2sByC"width="70%">
 </p>
 
 $$\textsf{\color{#D152AB}I love you so much that I can't describe it behind a screen :).}$$
@@ -23,6 +21,5 @@ $$\textsf{\color{#D152AB}I love you so much that I can't describe it behind a sc
 </p>
 
 <p align="center">
-  <!-- Cambia la URL por tu separador inferior -->
-  <img src="https://tu-servidor-de-imagenes.com" width="100%">
+  <img src="https://imgur.com" width="100%">
 </p>
