@@ -1,4 +1,4 @@
-<h3 align="center">⊹      .  tcc fans INT with me pls</h3>
+<h3 align="center">     .  tcc fans INT with me pls</h3>
 
 <h3 align="left">:</h3>
 <p align="left">
