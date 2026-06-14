@@ -2,7 +2,7 @@
 
 <h3 align="left">:</no dni  . but don't be a weirdo  ;) 
 
-<h3 align="left"he/him . no dni but don't be a weirdo ;):</h3>
+<h3 align="left"he/:</h3>
 <p align="left"> <a href="https://pin.it/6Jb4a9Pi1/" target="_blank" rel=""> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/Brentom/Brenton-original.svg" alt="="40" height="40"/> </a> </p>
 
 <h3 align="left">:     .      </h3>
