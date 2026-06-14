@@ -18,8 +18,8 @@ $$\textsf{\color{#D152AB}I love you so much that I can't describe it behind a sc
 <p align="center"> ———— ୨୧ ———— </p>
 
 <p align="center">
-  <a href="#">atabook</a> &nbsp; ♡ &nbsp; 
-  <a href="#">rentry</a> &nbsp; ♡ &nbsp; 
+  <a href="#">atabook</a> &nbsp; : &nbsp; 
+  <a href="#">rentry</a> &nbsp; : &nbsp; 
   <a href="#">strawpage</a>
 </p>
 
