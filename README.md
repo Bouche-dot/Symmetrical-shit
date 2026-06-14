@@ -1,9 +1,29 @@
-<h3 align="center">     .  if u are into tcc PLS int w me</h3>
+<p align="center">
+  <!-- Cambia la URL por tu separador superior -->
+  <img src="https://tu-servidor-de-imagenes.com" width="100%">
+</p>
 
-<h3 align="left">:</no dni  . but don't be a weirdo  ;) 
+<p align="center">
+  <!-- Tu contador de visitas personalizado -->
+  <img src="https://seeyoufarm.com" />
+</p>
 
-<h3 align="left"he/:</h3>
-<p align="left"> <a href="https://pin.it/6Jb4a9Pi1/" target="_blank" rel=""> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/Brentom/Brenton-original.svg" alt="="40" height="40"/> </a> </p>
+<p align="center">
+  <!-- Tu imagen central o ilustración de proyecto -->
+  <img src="https://tu-servidor-de-imagenes.com" width="70%">
+</p>
 
-<h3 align="left">:     .      </h3>
-<p> <a href="https://anypronouns , no dni but don't be a weirdo  .   ༻/10ccts"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="10ccts" /></a> </p><br><br>
+$$\textsf{\color{#D152AB}I love you so much that I can't describe it behind a screen :).}$$
+
+<p align="center"> ———— ୨୧ ———— </p>
+
+<p align="center">
+  <a href="#">atabook</a> &nbsp; ♡ &nbsp; 
+  <a href="#">rentry</a> &nbsp; ♡ &nbsp; 
+  <a href="#">strawpage</a>
+</p>
+
+<p align="center">
+  <!-- Cambia la URL por tu separador inferior -->
+  <img src="https://tu-servidor-de-imagenes.com" width="100%">
+</p>
