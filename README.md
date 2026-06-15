@@ -1,25 +1,21 @@
 <p align="center">
-  <img src="https://imgur.com/" width="100%">
+  <img src="https://shields.io_♡-18%2C344-f6ebd1?style=flat-square" />
+  <img src="https://shields.io_♡-12%2C608-595368?style=flat-square" />
 </p>
 
 <p align="center">
-  <img src="https://seeyoufarm.com" />
+  <img src="https://postimg.cc" width="90%">
 </p>
+
+$$\textsf{\color{#FFCCB3}echmul  ◚  flamman . c*h allowed maybee ;)?}$$
+
+<p align="center"> 
+  ————✧ &nbsp; <a href=>atabook</a> &nbsp;&nbsp;&nbsp;&nbsp; <a href="tiktok.com/@heiroflat">strawpage</a> &nbsp; ✧————
+</p
+
+$$\textsf{\color{#B279B5}and everytime we kiss, i swear i could fly . ♡}$$
 
 <p align="center">
-  <img src="https://pin.it/179k2sByC"width="70%">
+  <img src="https://postimg.cc" width="40%">
 </p>
 
-$$\textsf{\color{#D152AB}I love you so much that I can't describe it behind a screen :).}$$
-
-<p align="center"> ———— ୨୧ ———— </p>
-
-<p align="center">
-  <a href="#">atabook</a> &nbsp; : &nbsp; 
-  <a href="#">rentry</a> &nbsp; : &nbsp; 
-  <a href="#">strawpage</a>
-</p>
-
-<p align="center">
-  <img src="https://imgur.com" width="100%">
-</p>
