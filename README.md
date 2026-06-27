@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="[![dd51a91ff43f3e190b85da61c0a2baf6.jpg](https://i.postimg.cc/FHVzPmhD/dd51a91ff43f3e190b85da61c0a2baf6.jpg)](https://postimg.cc/qNgpRPh3)" width="90%">
+  <img src=[https://i.postimg.cc/FHVzPmhD/dd51a91ff43f3e190b85da61c0a2baf6.jpg][https://i.postimg.cc/FHVzPmhD/dd51a91ff43f3e190b85da61c0a2baf6.jpg](https://postimg.cc/qNgpRPh3)" width="70%">
 </p>
 
 $$\textsf{\color{#FFCCB3}echmul  ◚  flamman . c*h allowed maybee ;)?}$$
@@ -15,7 +15,9 @@ $$\textsf{\color{#FFCCB3}echmul  ◚  flamman . c*h allowed maybee ;)?}$$
 
 $$\textsf{\color{#B279B5}and everytime we kiss, i swear i could fly . ♡}$$
 
-<p align="center">
-  <img src="https://postimg.cc" width="40%">
+<p align="center"[IMG-20260624-WA0025.jpg](https://i.postimg.cc/xCZZffVm/IMG-20260624-WA0025.jpg)](https://postimg.cc/47zPwTd4)
+  <img src="" width="40%">
 </p>
+
+
 
